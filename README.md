@@ -42,4 +42,4 @@ Several tutorials are provided below. Requirements for these notebooks are: (1) 
 
 ## R Markdown
 
-Datasets can also be queried directly from R. You should be able to run the following RMarkdown notebook in a local version of RStudio: [mimic-iii-los.Rmd](https://colab.research.google.com/github/MIT-LCP/2019_toronto_health_hack/blob/master/tutorials/mimic-iii/mimic-iii-los.Rmd)
+Datasets can also be queried directly from R. You should be able to run the following RMarkdown notebook in a local version of RStudio: https://github.com/MIT-LCP/2019_toronto_health_hack/blob/master/tutorials/mimic-iii/mimic-iii-los.Rmd
