@@ -1,4 +1,4 @@
-# 2019 Toronto Health Hack (4-4 October 2019
+# 2019 Toronto Health Hack (4-5 October 2019)
 
 - https://www.tdothealthhack.com
 
