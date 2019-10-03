@@ -40,7 +40,7 @@ Several tutorials are provided below. Requirements for these notebooks are: (1) 
 * [05-prediction.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_toronto_health_hack/blob/master/tutorials/eicu/05-prediction.ipynb)
 * [Understanding Electronic Health Records with BigQuery ML](https://github.com/GoogleCloudPlatform/healthcare/blob/master/datathon/mimic_eicu/tutorials/BigQuery_ML.ipynb)
 * [Datathon Tutorial](https://github.com/GoogleCloudPlatform/healthcare/blob/master/datathon/mimic_eicu/tutorials/bigquery_tutorial.ipynb)
-* [MIMIC-IV](https://github.com/GoogleCloudPlatform/healthcare/blob/master/datathon/mimic_eicu/tutorials/summary-statistics.ipynb)
+* [MIMIC-IV](https://colab.research.google.com/github/MIT-LCP/2019_toronto_health_hack/blob/master/tutorials/mimic-iii/summary-statistics.ipynb)
 
 ## R Markdown
 
