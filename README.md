@@ -6,7 +6,6 @@
 
 - MIMIC-III Clinical Database: https://mimic.physionet.org/
 - eICU Collaborative Research Database: https://eicu-crd.mit.edu/
-- 
 
 ## Getting started
 
@@ -39,6 +38,8 @@ Several tutorials are provided below. Requirements for these notebooks are: (1) 
 * [03-severity-of-illness.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_toronto_health_hack/blob/master/tutorials/eicu/03-severity-of-illness.ipynb)
 * [04-summary-statistics.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_toronto_health_hack/blob/master/tutorials/eicu/04-summary-statistics.ipynb)
 * [05-prediction.ipynb](https://colab.research.google.com/github/MIT-LCP/2019_toronto_health_hack/blob/master/tutorials/eicu/05-prediction.ipynb)
+* [Understanding Electronic Health Records with BigQuery ML](https://github.com/GoogleCloudPlatform/healthcare/blob/master/datathon/mimic_eicu/tutorials/BigQuery_ML.ipynb)
+* [Datathon Tutorial](https://github.com/GoogleCloudPlatform/healthcare/blob/master/datathon/mimic_eicu/tutorials/bigquery_tutorial.ipynb)
 
 ## R Markdown
 
