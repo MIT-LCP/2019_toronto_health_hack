@@ -6,6 +6,8 @@
 
 - MIMIC-III Clinical Database: https://mimic.physionet.org/
 - eICU Collaborative Research Database: https://eicu-crd.mit.edu/
+- General Internal Medicine (GIM) dataset
+- Medical Imaging in Cervical Spine Trauma (MICST) dataset
 
 ## Getting started
 
