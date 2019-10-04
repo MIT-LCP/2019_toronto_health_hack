@@ -9,6 +9,10 @@
 - General Internal Medicine (GIM) dataset: https://lks-chart.github.io/gim-data-dictionary/
 - Medical Imaging in Cervical Spine Trauma (MICST) dataset
 
+## Talks/Slides
+
+- Getting the data: https://github.com/MIT-LCP/2019_toronto_health_hack/blob/master/talks/2019-10-03-toronto.ipynb
+
 ## Getting started
 
 The datasets are hosted on Google Cloud, which requires a Gmail account to manage permissions.
